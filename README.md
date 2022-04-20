@@ -1,3 +1,7 @@
+### This package has been forked to introduce Laravel 9 support.
+
+---
+
 ![Tests status](https://github.com/fico7489/laravel-eloquent-join/workflows/Test/badge.svg)
 
 # Laravel Eloquent Join
